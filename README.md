@@ -23,35 +23,48 @@
 
 <div align="center">
 
-<table>
+<table align="center" width="100%">
 
 <tr>
 
-<td width="50%" align="center">
+<th align="center" width="50%">
 
-### 💡 Interests
+## 💡 Interests
 
-🤖 AI & Automation  
-⚛️ React & Full Stack Development  
-🎨 UI/UX & Aesthetic Interfaces  
-🧠 DSA & Problem Solving  
+</th>
+
+<th align="center" width="50%">
+
+## 🌱 Currently Learning
+
+</th>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🤖 AI & Automation <br><br>
+⚛️ React & Full Stack Development <br><br>
+🎨 UI/UX & Aesthetic Interfaces <br><br>
+🧠 DSA & Problem Solving
 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
-### 🌱 Currently Learning
-
-🚀 Advanced React  
-⚙️ Backend Development  
-🏗️ System Design Basics  
-🤖 AI Workflows  
+🚀 Advanced React <br><br>
+⚙️ Backend Development <br><br>
+🏗️ System Design Basics <br><br>
+🤖 AI Workflows
 
 </td>
 
 </tr>
 
 </table>
+
 
 </div>
 
