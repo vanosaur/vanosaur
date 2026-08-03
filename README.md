@@ -1,78 +1,124 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Vani+Rudra!+✨;" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Vani+Rudra!+✨;" /> -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=42&center=true&vCenter=true&width=650&height=70&duration=4000&color=FFFFFF&lines=Welcome+to+my+GitHub+;I'm+Vani+Rudra!+;" />
 
 <br><br>
 
-<img width="850" src="https://github.com/user-attachments/assets/5c90db46-c1e7-4a0b-865f-bdcadf346174" />
+<div align="center">
+<pre>
+                                                        ----                                              
+                                                          ....                                      
+                                                     . .   --..-                                    
+                                                    ..-.   .-.  .                                   
+                                                      --     ..  .                                  
+                                                 .----...... ..   .                                 
+                                                .-++#++++###++-    .                                
+                                   .            .-++##########+.                                    
+                                               ..-+############+                                    
+                                               .-+##############-    .                              
+                                 .          .---++###############.  .-                              
+                                                  .-+#######+++##-   .-                             
+                                .         ....+##+.  -############.   -                             
+                                        ...     .+.  .####-.  +###.   -                             
+                               .        .    ..+##.   ####+++##+##.   .+                            
+                               .        . .+#####+    ############-    -                            
+                              -.       ....-+####-   .############.    .+                           
+                              -.        --..-###-    -###########-      -                           
+                              .         .--..-+.     .+##+#######.      -                           
+                              .         .----...     .##########-       -                           
+                              .          ----..    .-##########+        -                           
+                             .           .-----    .---+##++##+         -                           
+                             .            .---.... .-++######+          -+                          
+                            -              .---...---++#####.            -+                         
+                            .                .--.-+########              .-+                        
+                                              .--+++#####+.               --+                       
+                           -                   ...-+++#--+.               .-+                       
+                           +               ...--+++####.                 ..-+#                      
+                           -.        .-+#-.---+######+-     --           ...-+#                     
+                          ..      .--+#####++-+###++-..     ...             .-++                    
+                        +- . .##-##+++#######++####-..     ....               .++                   
+                      #####+-#################++#+--.    ..                    -####                
+                    +##########################++++.   +## .                    -#####              
+                 +#+-+############################-    ###....                  .######             
+              +#####-##############################-  #### ...                   -######            
+             --+####-###############################.+###---.                     +######           
+            +-+++#################################+++####++-.            ...      +########         
+          ##+----#################################++#######+.               .    .#########         
+         ####++--#################################+#######+##                     -#########        
+        ######+-+#################################+#######--.   .            ..    -#########       
+       +#######+##################################-########--.  .                    .########      
+      -###########################################+########+.-                     .. +########     
+     -+#################++###################################-.                    -. ++#######     
+     -+#################+-+###################################-                      .-#########    
+    --+###############-+-.+####################################+.                   .-##########    
+   ---+##############+---.######################################+.               .   ###########    
+   ---+##############+-+-+#######################################+.    .  .   ...    -###########   
+  ##--+##++###########++-+#######################################+.          . .      +###++#####   
+ +###-+#+-+##########++++########################################+.             .     -+--+#######  
+.####+---+############+##########################################+                    ...-########  
+######+--++###########+##########################################+.                     .+##########
+</pre>
+</div>
+
+<!-- <p align="center">
+  <img src="./ascii-art%20(1).png" width="700" alt="ASCII Art">
+</p> -->
 
 </div>
 
 <br>
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
-<div align="center">
-
-✨ Full Stack & AI Developer passionate about building scalable AI-powered applications and modern web experiences.
-
-</div>
+<p align="center">
+B.Tech student passionate about <b>Full Stack Development</b>, <b>Artificial Intelligence</b>, and building impactful software.<br>
+I enjoy solving real-world problems, exploring modern technologies, and creating scalable applications.
+</p>
 
 <br>
 
-<div align="center">
-
-<table align="center" width="100%">
-
+<table align="center">
 <tr>
-
 <th align="center" width="50%">
 
-## 💡 Interests
+### 🚀 Focus Areas
 
 </th>
-
 <th align="center" width="50%">
 
-## 🌱 Currently Learning
+### 📚 Currently Exploring
 
 </th>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
-🤖 AI & Automation <br><br>
-⚛️ React & Full Stack Development <br><br>
-🎨 UI/UX & Aesthetic Interfaces <br><br>
-🧠 DSA & Problem Solving
+💻 Full Stack Development<br><br>
+🤖 Artificial Intelligence & Machine Learning<br><br>
+⚡ Backend Systems & APIs<br><br>
+🧩 Data Structures & Algorithms
 
 </td>
 
 <td align="center">
 
-🚀 Advanced React <br><br>
-⚙️ Backend Development <br><br>
-🏗️ System Design Basics <br><br>
-🤖 AI Workflows
+⚛️ Advanced React<br><br>
+🐍 Python for AI<br><br>
+🏗️ System Design<br><br>
+☁️ Cloud & Deployment
 
 </td>
-
 </tr>
-
 </table>
 
-
-</div>
-
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Building+cool+things+with+React+⚛️;Exploring+AI+%26+Automation+🤖;Learning+something+new+everyday+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;Writing+Clean+and+Scalable+Code;Always+Learning,+Always+Building" />
 
 </div>
 
