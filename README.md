@@ -7,7 +7,7 @@
 <br><br>
 
 <p align="center">
-  <img src="./profilepic.png" width="500" alt="ASCII Art">
+  <img src="./profilepic1.png" width="500" alt="ASCII Art">
 </p>
 
 </div>
